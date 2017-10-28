@@ -11,5 +11,6 @@
 
 ### 2. DEMO
 
-1. Check demo here [my_gothic](https://kunduin.github.io/Web-Begin/my_gothic.html)
+1. Check demo here [my_gothic](https://kunduin.github.io/Web-Begin/MY GOTHIC.html)
+
 
