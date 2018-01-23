@@ -5,4 +5,4 @@
 与其著作《css,The Missing Manual,4th Edition》
 
 ### domo
-[day2](https://kunduin.github.io/Web-Begin/day2/external-css.html);
+[day2](https://kunduin.github.io/Web-Begin/day1/external-css/external-css.html);
