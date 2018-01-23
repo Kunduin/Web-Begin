@@ -1,9 +1,5 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
 body{
+    margin: 0%;
     background-color: #292D3E;
 }
 
@@ -16,6 +12,7 @@ p{
     color: #A6ACCD;
     font-size: 1em;
     line-height: 1.5em;
+
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -29,6 +26,13 @@ h1,h2,h3{
 
 h1{
     font-size: 2em;
+}
+
+h1+p{
+    font-size: 1.2em;
+    line-height: 130%;
+    color: rgba(240, 248, 255, 0.685);
+
 }
 
 #logo{
