@@ -5,4 +5,4 @@
 与其著作《css,The Missing Manual,4th Edition》
 
 ### demo
-[external-css](https://kunduin.github.io/Web-Begin/day1/cascade/cascade.html)
+[cascade](https://kunduin.github.io/Web-Begin/day1/cascade/cascade.html)
