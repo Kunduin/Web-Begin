@@ -14,5 +14,6 @@
    1. internal-css [internal-css](https://kunduin.github.io/Web-Begin/day1/internal-css/internal-css.html)
    2. external-css [external-css](https://kunduin.github.io/Web-Begin/day1/external-css/external-css.html)
    3. selector-base [selector-base](https://kunduin.github.io/Web-Begin/day1/selector/selector.html)
+   4. inheritance [inheritance](https://kunduin.github.io/Web-Begin/day1/inheritance/inheritance.html)
 
 

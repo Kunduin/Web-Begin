@@ -1,0 +1,29 @@
+p{
+    color: rgb(63, 33, 92);
+    padding-left: 20px;
+    border-left: solid 5px rgba(106, 91, 194, 0.514);
+}
+
+body{
+    background-color: aliceblue;
+    margin: 0;
+}
+
+.content{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: rgb(106, 91, 194);
+    max-width: 750px;
+    margin: 7em auto;
+}
+footer{
+    background: rgb(106, 91, 194);
+    margin-top: 30px;
+    height: 10em;
+    text-align: center
+}
+footer p{
+    line-height: 10em;
+    color: aliceblue;
+    border: 0;
+}
