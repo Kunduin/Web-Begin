@@ -41,6 +41,18 @@ p{
     margin-left: 0;
 }
 
+h2::before{
+    content: "##";
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(151, 151, 151);
+}
+
+::selection{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.342);
+}
+
+
 footer{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     height: 3em;

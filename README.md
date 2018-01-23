@@ -12,4 +12,5 @@
 
 1. Day1 internal-css [internal-css](https://kunduin.github.io/Web-Begin/day1/internal-css.html)
 2. Day2 external-css [external-css](https://kunduin.github.io/Web-Begin/day2/external-css.html)
+3. Day3 selector-base [selector-base](https://kunduin.github.io/Web-Begin/day2/selector.html)
 
