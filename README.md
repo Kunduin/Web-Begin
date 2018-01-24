@@ -14,4 +14,7 @@
    3. [selector-base](https://kunduin.github.io/Web-Begin/day1/selector/selector.html)
    4. [inheritance](https://kunduin.github.io/Web-Begin/day1/inheritance/inheritance.html)
    5. [cascade](https://kunduin.github.io/Web-Begin/day1/cascade/cascade.html)
+2. Day2
+   1. [margin](https://kunduin.github.io/Web-Begin/day2/margins/margin.html)
+
 
