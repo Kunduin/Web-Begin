@@ -1,6 +1,6 @@
 html{
     background-color: rgba(223, 223, 223, 0.082);    
-    background: fixed repeat-x url(background.png);
+    background: fixed repeat-x url(https://raw.githubusercontent.com/Kunduin/Web-Begin/master/day2/margins/background.PNG);
 }
 body{
     background-color: white;
