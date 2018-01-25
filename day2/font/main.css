@@ -1,0 +1,93 @@
+html{
+    background-color: #8254D5;
+    font-family: 'Open Sans';
+}
+
+.main{
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+.main h1{
+    font-size: 4em;
+    font-family: 'Vidaloka';
+    color: rgb(213, 189, 255);
+    text-shadow: 0 2px 5px rgb(70, 70, 70);
+}
+
+.main h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #471D91;
+    font-size: 2.7em;
+    margin-top: 25px;
+    border-bottom: 1px solid #471D91;
+    text-align: center;
+}
+
+.main h3{
+    color: #471D91;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.9em;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.main p{
+    color: rgba(227, 210, 250, 0.603);
+}
+
+.main p::first-line{
+    font-weight: bold;
+    color: rgb(237, 184, 253);
+}
+
+/* .main p::first-letter{
+    float: left;
+    font-size: 2em;
+} */
+
+.main ul{
+    margin:70px 0 25px 50px;
+    float: right;
+    width: 25%;
+    color: #E3D2FA;
+}
+
+.main li{
+    margin-bottom: 7px;
+    font-size: 1em;
+}
+
+.main .byline{
+    font-size: 1.2em;
+    margin: -35px 0 25px 400px;
+    text-align: right;
+}
+
+.main .byline strong{
+    color: #FEBE7A;
+}
+
+p strong{
+    color: #FEBE7A; 
+    font-weight: bold;   
+}
+
+.main h1 strong{
+    font-size: 150px;
+    margin-right: -1em;
+    color: #8254D5;
+    text-shadow: 0 5px 10px rgba(0, 0, 0, 0.288);
+}
+
+footer{
+    background: rgba(72, 29, 145, 0.63);
+    margin-top: 30px;
+    height: 12em;
+    text-align: center
+}
+footer p{
+    line-height: 10em;
+    color: #E3D2FA;
+}
