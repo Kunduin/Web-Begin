@@ -17,5 +17,6 @@
 2. Day2
    1. [margin](https://kunduin.github.io/Web-Begin/day2/margins/margin.html)
    2. [font](https://kunduin.github.io/Web-Begin/day2/font/font.html)
+   3. [image](https://kunduin.github.io/Web-Begin/day2/image/image.html)
 
 
