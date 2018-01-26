@@ -1,0 +1,39 @@
+h1{
+    font-size: 5rem;
+    font-family: 'Vollkorn';
+}
+
+.content{
+    max-width: 750px;
+    margin: 10px auto;
+}
+
+html{
+    background-color: #F7F4EE;
+    color: #1A2CAC;
+}
+
+figure{
+    display: inline-block;
+    vertical-align: top;
+    width: 210px;
+    margin: 0 10px 20px;
+    font-size: 0.8em;
+}
+
+img{
+    border: 1px solid rgb(39, 41, 54);
+    padding: 4px;
+    background: #1A2CAC;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.397);
+    margin-bottom: 5px;
+}
+
+.copyright{
+    background-color: rgba(26, 43, 172, 0.493);
+    margin: 0;
+    color: rgb(22, 22, 24);
+    min-height: 10em;
+    line-height: 10em;
+    text-align: center;
+}
