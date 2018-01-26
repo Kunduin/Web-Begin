@@ -1,0 +1,95 @@
+header{
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.034);
+    height: 63px;
+    background-color: rgba(255, 255, 255, 0.609);
+}
+a{
+    text-decoration: none;
+}
+
+.my-name{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    line-height: 63px;
+    font-size: 40px;
+    padding-left: 20px;
+    font-family: 'Lobster';
+    color: rgba(0, 0, 0, 0.609);
+}
+
+.main-nav{
+    list-style-type: none;
+    margin: 0;
+    margin-right: 0;
+    float: left;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.main-nav li{
+    float: left;
+    padding: 0 0 4px;
+    margin-right: 40px;
+}
+.main-nav li:first-of-type a{
+    margin-right: 10px;
+}
+.main-nav-container{
+    position: absolute;
+    top: 22px;
+    right: 10px;
+}
+
+.main-nav li a:link{
+    color: rgba(0, 0, 0, 0.466);
+}
+
+.main-nav li a:visited{
+    color: rgba(0, 0, 0, 0.459);
+}
+
+.main-nav li a:hover{
+    border-bottom: 2px solid rgba(0, 0, 0, 0.699);
+    color: black;
+}
+
+.main-nav li a:active{
+    color: black;
+}
+
+article{
+    position: relative;
+    margin: 120px auto 50px;
+    max-width: 750px;
+}
+
+article h1{
+    font-family: 'Lobster';
+    font-size: 100px;
+    text-align: center;
+}
+
+footer{
+    height: 10em;
+    line-height: 10em;
+    text-align: center;
+    background-color: rgba(76, 80, 102, 0.781);
+}
+
+footer a:link{
+    color: white;
+}
+footer a:visited{
+    color: white;
+}
+footer a:hover{
+    color: white;
+}
+footer a:active{
+    color: white;
+}
