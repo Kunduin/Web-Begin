@@ -1,0 +1,138 @@
+header{
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.034);
+    height: 63px;
+    background-color: rgba(255, 255, 255, 0.609);
+}
+a{
+    text-decoration: none;
+}
+
+.my-name{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    line-height: 63px;
+    font-size: 40px;
+    padding-left: 20px;
+    font-family: 'Lobster';
+    color: rgba(0, 0, 0, 0.609);
+}
+.my-name a{
+    color: rgba(0, 0, 0, 0.678);
+}
+
+.main-nav{
+    list-style-type: none;
+    margin: 0;
+    margin-right: 0;
+    float: left;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.main-nav li{
+    float: left;
+    padding: 0 0 4px;
+    margin-right: 40px;
+}
+
+.main-nav li a{
+    border-bottom: 2px solid transparent;
+    transition-property: All;
+    transition-duration: .7s;
+    color: rgba(0, 0, 0, 0.486);
+    padding-bottom: 10px;
+}
+
+.main-nav li:first-of-type a{
+    margin-right: 10px;
+}
+.main-nav-container{
+    position: absolute;
+    top: 22px;
+    right: 10px;
+}
+
+
+.main-nav li a:hover{
+    border-bottom: 2px solid rgba(0, 0, 0, 0.699);
+    color: black;
+    padding-bottom: 4px;
+
+}
+
+
+article{
+    position: relative;
+    margin: 120px auto 50px;
+    max-width: 750px;
+}
+
+article h1{
+    font-family: 'Lobster';
+    font-size: 100px;
+    text-align: center;
+}
+
+footer{
+    height: 10em;
+    line-height: 10em;
+    text-align: center;
+    background-color: rgba(76, 80, 102, 0.781);
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+footer a{
+    color: white;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 40px;
+    text-align: center;
+}
+.animation-section,
+.transition-section{
+    width: 200px;
+    margin: 50px auto;
+}
+.transition-img{
+    transition: all;
+    transition-duration: 1s;
+}
+
+.transition-img:hover{
+    transform: rotate(720deg);
+}
+
+.transition-img:active{
+    transform: translateX(500px);
+}
+
+@keyframes shadow {
+    from{
+        opacity: 0;
+        transform: translateX(-100px)
+    }
+    50%{
+        opacity: 1;
+    }
+    to{
+        opacity: 0;
+        transform: translateX(100px)        
+    }
+}
+
+.animation-img{
+    animation-name: shadow;
+    animation-duration:5s;
+    animation-iteration-count:infinite;
+    animation-fill-mode: forwards;
+    
+}
