@@ -23,5 +23,6 @@
    6. [animations](https://kunduin.github.io/Web-Begin/day2/animations/animations.html)
    7. [table](https://kunduin.github.io/Web-Begin/day2/table/table.html)
    8. [form](https://kunduin.github.io/Web-Begin/day2/form/form.html)
+   9. [float](https://kunduin.github.io/Web-Begin/day3/float/float.html)
 
 
