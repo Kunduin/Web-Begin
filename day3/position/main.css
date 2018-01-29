@@ -1,0 +1,58 @@
+h1{
+    font-size: 5rem;
+    font-family: 'Vollkorn';
+}
+
+.content{
+    max-width: 750px;
+    margin: 10px auto 100px;
+}
+
+html{
+    background-color: #F7F4EE;
+    color: #1A2CAC;
+}
+
+figure{
+    display: inline-block;
+    vertical-align: top;
+    width: 210px;
+    margin: 20px 10px 20px;
+    font-size: 0.8em;
+    position: relative;
+    cursor: pointer;
+}
+
+figcaption{
+    position: absolute;
+    top: 15%;
+    bottom: 15%;
+    left: 0;
+    right: 0;
+    background-color: rgba(26, 43, 172, 0.424);
+    color: white;
+    padding: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    opacity: 0;
+    transition: all,0.5s;
+}
+
+figure:hover figcaption{
+    opacity: 1;
+}
+
+img{
+    border: 1px solid rgb(39, 41, 54);
+    padding: 4px;
+    background: #1A2CAC;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.397);
+}
+
+.copyright{
+    background-color: rgba(26, 43, 172, 0.493);
+    margin: 0;
+    color: rgb(22, 22, 24);
+    min-height: 10em;
+    line-height: 10em;
+    text-align: center;
+}
