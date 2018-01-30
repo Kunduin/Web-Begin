@@ -5,4 +5,4 @@
 与其著作《css,The Missing Manual,4th Edition》
 
 ### demo
-[RWD](https://kunduin.github.io/Web-Begin/day3/rwd/rwd.html)
+[RWD](https://kunduin.github.io/Web-Begin/day3/rwd1/rwd1.html)
